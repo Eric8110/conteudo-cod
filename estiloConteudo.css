@@ -212,6 +212,7 @@ ul li a:hover {
     height: 25vw;
     overflow: hidden;
     transition: transform 1.5s ease-in-out;
+    z-index: 0;
 }
 
 .img {
@@ -293,7 +294,7 @@ ul li a:hover {
     bottom: 0;
     left: 0;
     right: -15px;
-    background: #217bd4;
+    background: #13508d;
     transform-origin: 0 0;
     transform: skew(-14deg) translateX(-120%);
     transition: all .275s .1s;
@@ -356,7 +357,7 @@ ul li a:hover {
 .main-nav a {
 	display: block;
 	padding: 12px 0;
-	color: #5A3B5D;
+	color: #ffffff;
 	font-size: 1.4em;
 	text-decoration: none;
 	font-weight: bold;
@@ -434,7 +435,7 @@ ul li a:hover {
 	position: fixed;
 	width: 100%;
 	height: 100%;
-    
+    z-index: 1;
 }
 
 
