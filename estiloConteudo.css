@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url('https://i.pinimg.com/originals/35/2b/5c/352b5c8fd79b5a19a69ad3b45b1823a4.gif');
+    background-image: url('https://free4kwallpapers.com/uploads/originals/2020/06/04/minimalist-black-wallpaper.png');
     background-size: cover;
     margin: 0;
     min-height: 100vh;
@@ -37,13 +37,9 @@ flex-direction: column;
 }
 
 .logo {
-    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-    color: #2c9cab;
-    font-size: 35px;
-    font-family: Arial;
-    padding-left: 20px;
+    padding-left: 5px;
     float: left;
-    padding-top: 10px;
+    padding-top: 5px;
     margin-top: 5px
 }
 
@@ -86,7 +82,7 @@ ul li a {
 
 ul li a:hover {
     width: 100%;
-    color: #2c9cab;
+    color: #3be8ff;
 }
 
 
@@ -130,7 +126,7 @@ ul li a:hover {
     width: 100px;
     height: 40px;
     background: rgb(64, 64, 64);
-    border: 2px solid #2c9cab;
+    border: 2px solid #3be8ff;
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
@@ -179,7 +175,7 @@ ul li a:hover {
 .content .cn {
     width: 160px;
     height: 40px;
-    background: #2c9cab;
+    background: #3be8ff;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -200,7 +196,7 @@ ul li a:hover {
 }
 
 .content span {
-    color: #2c9cab;
+    color: #3be8ff;
     font-size: 65px
 }
 
@@ -248,7 +244,7 @@ ul li a:hover {
 }
 
 .icons ion-icon:hover {
-    color: #2c9cab;
+    color: #3be8ff;
 }
 
 .produtos {
@@ -294,7 +290,7 @@ ul li a:hover {
     bottom: 0;
     left: 0;
     right: -15px;
-    background: #13508d;
+    background-image: url(https://i.pinimg.com/originals/00/f9/a3/00f9a3c2c7c590ccff74da35c31f8f2f.png);
     transform-origin: 0 0;
     transform: skew(-14deg) translateX(-120%);
     transition: all .275s .1s;
@@ -382,7 +378,7 @@ ul li a:hover {
 	width: 28px;
 	height: 4px;
 	margin: 0 auto;
-	background: #5A3B5D;
+	background: #ffffff;
 	transform: skew(5deg);
 	transition: all .275s;
 }
@@ -392,7 +388,7 @@ ul li a:hover {
 	content: '';
 	display: block;
 	height: 100%;
-	background: #5A3B5D;
+	background: #ffffff;
 	transition: all .275s;
 }
 
@@ -428,7 +424,7 @@ ul li a:hover {
 	text-transform: uppercase;
 	font-weight: 500;
 	text-align: center;
-	color: #5A3B5D;
+	color: #ffffff;
 }
 
 .device {
@@ -438,6 +434,11 @@ ul li a:hover {
     z-index: 1;
 }
 
+.final{
+    border-radius: 10px 10px 10px;
+    background-color: #1c1c1c;
+    color: white;
+}
 
 
 
